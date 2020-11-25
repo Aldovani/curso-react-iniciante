@@ -1,2 +1,3 @@
 # curso-react-iniciante
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://ujxgt.csb.app/)
